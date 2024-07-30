@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Auth & Typescript**
 
-- 💬 Ask me about **react, REST APIs, MYSQL databases**
+- 💬 Ask me about **React, REST APIs, MYSQL databases**
 
 - 📫 How to reach me **danielleadairbruce@gmail.com**
 
