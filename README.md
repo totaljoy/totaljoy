@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danielle</h1>
-<h3 align="center">A fullstack engineer that previously hails from the art world</h3>
+<h3 align="center">Software engineer with a unique art world background, specializing in full-stack development.</h3>
 
 - 🔭 I’m currently working on [éCrit's Frontend](https://github.com/totaljoy/ecrit)
 
